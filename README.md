@@ -1,7 +1,7 @@
 ﻿# valorant-friends-purger
 
 ### 使い方
-Pythonを入れます
+Pythonを入れます  
 VALORANTを起動した状態で
 ```
 python main.py
